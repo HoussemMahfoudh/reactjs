@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HoussemMahfoudh/reactjs.git/static/css/main.4cab4b20.chunk.css",
+    "main.js": "/HoussemMahfoudh/reactjs.git/static/js/main.74902d4a.chunk.js",
+    "main.js.map": "/HoussemMahfoudh/reactjs.git/static/js/main.74902d4a.chunk.js.map",
+    "runtime-main.js": "/HoussemMahfoudh/reactjs.git/static/js/runtime-main.110d7c50.js",
+    "runtime-main.js.map": "/HoussemMahfoudh/reactjs.git/static/js/runtime-main.110d7c50.js.map",
+    "static/css/2.150d169a.chunk.css": "/HoussemMahfoudh/reactjs.git/static/css/2.150d169a.chunk.css",
+    "static/js/2.ca6edb2e.chunk.js": "/HoussemMahfoudh/reactjs.git/static/js/2.ca6edb2e.chunk.js",
+    "static/js/2.ca6edb2e.chunk.js.map": "/HoussemMahfoudh/reactjs.git/static/js/2.ca6edb2e.chunk.js.map",
+    "static/js/3.90ab326a.chunk.js": "/HoussemMahfoudh/reactjs.git/static/js/3.90ab326a.chunk.js",
+    "static/js/3.90ab326a.chunk.js.map": "/HoussemMahfoudh/reactjs.git/static/js/3.90ab326a.chunk.js.map",
+    "index.html": "/HoussemMahfoudh/reactjs.git/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/HoussemMahfoudh/reactjs.git/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.4cab4b20.chunk.css.map": "/HoussemMahfoudh/reactjs.git/static/css/main.4cab4b20.chunk.css.map",
+    "static/js/2.ca6edb2e.chunk.js.LICENSE.txt": "/HoussemMahfoudh/reactjs.git/static/js/2.ca6edb2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.110d7c50.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ca6edb2e.chunk.js",
+    "static/css/main.4cab4b20.chunk.css",
+    "static/js/main.74902d4a.chunk.js"
+  ]
+}
